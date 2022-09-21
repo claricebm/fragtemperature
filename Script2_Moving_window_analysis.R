@@ -5,7 +5,7 @@ library("reshape")
 
 #before processing the analysis, use "Mosaic" ArcGIS function to put together all rasters created in Script1 step as one single/final forest cover image
 
-#abre rasters
+#open rasters
 forest2000 <- raster("ForestCover2000_00N_000E - Copia (2).tif") #forest cover
 n.patches <- raster("NumberPatches2000_00N_000E - Copia (2).tif") #number of patches
 edge.density <- raster("EdgeDensity2000_00N_000E - Copia (2).tif") #edge density
