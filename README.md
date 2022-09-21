@@ -1,5 +1,4 @@
 # fragtemperature
-R scripts for all analyzes ran for my Masters project
 
 The R scripts here were all used for the analysis of my Masters project, turned into a paper: "Does habitat fragmentation affect landscape-level temperatures? A global analysis". See link for the study: https://link.springer.com/article/10.1007/s10980-020-01041-5
 
